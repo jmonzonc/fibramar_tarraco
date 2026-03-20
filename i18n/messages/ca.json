@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Fibramar Tarraco | Especialistes en Composite i Pintura Nàutica de Luxe",
+      "description": "Des de 1995, líders en reparació de fibra de vidre, pintura nàutica premium i treballs de composite per a iots i embarcacions de luxe al Port de Tarragona.",
+      "keywords": "pintura nàutica, fibra de vidre, composite, iots de luxe, reparació embarcacions, Port Tarragona, drassana nàutica"
+    },
+    "services": {
+      "title": "Serveis | Fibramar Tarraco",
+      "description": "Serveis especialitzats de reparació i pintura nàutica: fibra de vidre, gelcoat, pintura d'iots, tractaments osmosi, polit i encerat professional.",
+      "keywords": "reparació fibra vidre, pintura iots, gelcoat, osmosi, polit nàutic, composite marí"
+    },
+    "projects": {
+      "title": "Projectes | Fibramar Tarraco",
+      "description": "Galeria de projectes completats: restauracions d'iots de luxe, reparacions estructurals, treballs de pintura i acabats premium.",
+      "keywords": "restauració iots, projectes nàutics, reparacions embarcacions, treballs pintura marina"
+    },
+    "about": {
+      "title": "Nosaltres | Fibramar Tarraco",
+      "description": "Coneix Fibramar Tarraco: més de 30 anys d'experiència en el sector nàutic, equip d'artesans especialitzats i compromís amb l'excel·lència.",
+      "keywords": "empresa nàutica Tarragona, artesans nàutics, experiència marina, equip especialitzat"
+    },
+    "contact": {
+      "title": "Contacte | Fibramar Tarraco",
+      "description": "Sol·licita pressupost sense compromís. Contacta amb Fibramar Tarraco per al teu projecte de reparació o pintura nàutica de luxe.",
+      "keywords": "pressupost nàutic, contacte drassana, sol·licitar pressupost, reparació iots Tarragona"
+    }
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "projects": "Projectes",
+    "about": "Nosaltres",
+    "contact": "Contacte",
+    "requestQuote": "Sol·licitar Pressupost"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TARRAGONA · DES DE 1995",
+      "title": "Excel·lència en Composite i Pintura Nàutica",
+      "subtitle": "Artesans del Mar des de 1995",
+      "description": "Transformem embarcacions amb la màxima precisió i acabats de luxe. Especialistes en fibra de carboni, kevlar, fibra de vidre i pintura per a iots al Port de Tarragona.",
+      "cta": "Contactar per WhatsApp",
+      "ctaSecondary": "Veure Projectes"
+    },
+    "trustStrip": {
+      "years": "+30 anys",
+      "yearsLabel": "d'experiència",
+      "yachts": "Iots de luxe",
+      "yachtsLabel": "i regates",
+      "international": "Abast internacional",
+      "internationalLabel": "Espanya i Amèrica",
+      "location": "Port de Tarragona",
+      "locationLabel": "instal·lacions pròpies"
+    },
+    "services": {
+      "title": "Els Nostres Serveis",
+      "subtitle": "Solucions integrals per a la seva embarcació",
+      "viewAll": "Veure Tots els Serveis",
+      "composite": {
+        "badge": "ALTA TECNOLOGIA",
+        "title": "Composite Avançat",
+        "description": "Fabricació a mida amb fibra de carboni, kevlar i fibra de vidre. Tècniques de laminat per a nàutica d'alt rendiment, regates i grans eslores."
+      },
+      "painting": {
+        "badge": "ACABATS IMPECABLES",
+        "title": "Pintura i Tractaments",
+        "description": "Pintat d'estructures, antifouling, gel-coat original i tractaments especialitzats per a embarcacions de totes les dimensions. Acabats duradors i resistents."
+      }
+    },
+    "whyUs": {
+      "title": "Per Què Escollir-nos",
+      "experience": {
+        "title": "Més de 30 Anys d'Experiència",
+        "description": "Dècades perfeccionant tècniques artesanals en el sector nàutic de luxe."
+      },
+      "materials": {
+        "title": "Materials Premium",
+        "description": "Fibra de carboni, kevlar i materials d'última generació."
+      },
+      "team": {
+        "title": "Equip Especialitzat",
+        "description": "Artesans formats en les tècniques més avançades del sector."
+      },
+      "facilities": {
+        "title": "Instal·lacions Pròpies",
+        "description": "Taller al Port de Tarragona amb capacitat per a grans eslores."
+      },
+      "racing": {
+        "title": "Experiència en Regates",
+        "description": "Treballs per a equips de competició i embarcacions d'alt rendiment."
+      },
+      "warranty": {
+        "title": "Garantia de Qualitat",
+        "description": "Respatlem cada treball amb garanties sòlides i seguiment post-servei."
+      }
+    },
+    "testimonials": {
+      "title": "El Que Diuen els Nostres Clients",
+      "testimonial1": {
+        "text": "Treball impecable en la restauració del meu iot. L'acabat de pintura és senzillament perfecte.",
+        "author": "Carlos M.",
+        "role": "Propietari Sunseeker 68"
+      },
+      "testimonial2": {
+        "text": "L'equip de Fibramar va fer un treball excepcional amb la fibra de carboni del nostre veler de regates.",
+        "author": "Marc T.",
+        "role": "Racing Team Catalunya"
+      },
+      "testimonial3": {
+        "text": "Professionals de veritat. El tractament d'osmosi va deixar el casc com nou.",
+        "author": "Josep A.",
+        "role": "Propietari Beneteau 50"
+      }
+    },
+    "cta": {
+      "title": "Preparat per Transformar la seva Embarcació?",
+      "description": "Contacti'ns per a una avaluació personalitzada i pressupost sense compromís.",
+      "whatsapp": "WhatsApp Directe",
+      "email": "Enviar Email"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Serveis Especialitzats",
+      "subtitle": "Solucions integrals per a embarcacions de luxe"
+    },
+    "list": {
+      "fiberglass": {
+        "title": "Reparació de Fibra de Vidre",
+        "description": "Reparacions estructurals i estètiques de cascs, cobertes i components. Restaurem la integritat de la seva embarcació amb tècniques avançades de laminat i acabats perfectes.",
+        "features": ["Reparació d'impactes i esquerdes", "Reforç estructural", "Reconstrucció de seccions", "Acabats invisibles"]
+      },
+      "painting": {
+        "title": "Pintura Nàutica Premium",
+        "description": "Sistemes de pintura d'alta gamma per a iots de luxe. Aplicació professional amb cabina climatitzada i acabats mirall que perduren temporada rere temporada.",
+        "features": ["Pintura de línia de flotació", "Lacats de superestructura", "Antifouling professional", "Acabats metal·litzats"]
+      },
+      "gelcoat": {
+        "title": "Treballs de Gelcoat",
+        "description": "Restauració i aplicació de gelcoat per tornar la brillantor original a la seva embarcació. Reparem danys, igualem colors i apliquem capes de protecció.",
+        "features": ["Igualació de color", "Reparació de crazing", "Polit professional", "Protecció UV"]
+      },
+      "osmosis": {
+        "title": "Tractament d'Osmosi",
+        "description": "Diagnòstic i tractament complet d'osmosi. Eliminem les butllofes, assequem el casc i apliquem barreres epoxi d'última generació.",
+        "features": ["Diagnòstic amb humidímetre", "Pelat i assecat", "Barrera epoxi", "Garantia estesa"]
+      },
+      "polishing": {
+        "title": "Polit i Encerat",
+        "description": "Serveis de detailing nàutic professional. Tornem la brillantor a gelcoat i superfícies pintades amb tècniques de polit d'alta precisió.",
+        "features": ["Polit multicapa", "Eliminació d'òxid", "Encerat ceràmic", "Protecció duradora"]
+      },
+      "custom": {
+        "title": "Projectes Especials",
+        "description": "Treballs a mida per a regatistes, flotes esportives i projectes únics. Des de modificacions estructurals fins a personalitzacions exclusives.",
+        "features": ["Modificacions custom", "Optimització racing", "Carboni i kevlar", "Disseny a mida"]
+      }
+    },
+    "cta": {
+      "title": "Necessita un Servei Especialitzat?",
+      "description": "Avaluem el seu projecte sense compromís"
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Els Nostres Projectes",
+      "subtitle": "Excel·lència que parla per si mateixa"
+    },
+    "filters": {
+      "all": "Tots",
+      "painting": "Pintura",
+      "repair": "Reparació",
+      "restoration": "Restauració",
+      "custom": "Projectes Especials"
+    },
+    "gallery": {
+      "viewDetails": "Veure Detalls",
+      "project1": {
+        "title": "Restauració Integral Sunseeker 75",
+        "category": "Restauració",
+        "description": "Restauració completa d'un Sunseeker 75 incloent reparació estructural del casc, nou sistema de pintura complet i acabats interiors."
+      },
+      "project2": {
+        "title": "Pintura Racing Team Catalunya",
+        "category": "Pintura",
+        "description": "Projecte de pintura per a equip de regates amb colors corporatius, acabats mat i gràfics personalitzats d'alta visibilitat."
+      },
+      "project3": {
+        "title": "Reparació Impacte Princess V58",
+        "category": "Reparació",
+        "description": "Reparació de danys per impacte a proa amb reconstrucció estructural en fibra de vidre i igualació perfecta de gelcoat."
+      },
+      "project4": {
+        "title": "Tractament Osmosi Beneteau 50",
+        "category": "Reparació",
+        "description": "Tractament complet d'osmosi amb pelat de gelcoat, assecat controlat i aplicació de nou sistema de barrera."
+      },
+      "project5": {
+        "title": "Custom Tender Riva",
+        "category": "Projectes Especials",
+        "description": "Personalització exclusiva de tender Riva amb acabats en carboni vist, pintura metal·litzada i detalls en or."
+      },
+      "project6": {
+        "title": "Refitting Clàssic Hallberg-Rassy",
+        "category": "Restauració",
+        "description": "Projecte de refitting complet de veler clàssic incloent reparacions estructurals, nou antifouling i vernissat de fustes."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "La Nostra Història",
+      "subtitle": "Més de 30 anys dedicats a l'excel·lència nàutica"
+    },
+    "story": {
+      "title": "Artesans del Mar des de 1995",
+      "content": "Fibramar Tarraco va néixer de la passió pel mar i el compromís amb l'excel·lència. Fundada el 1995 al Port de Tarragona, hem crescut fins a convertir-nos en referents del sector nàutic de luxe al Mediterrani occidental.",
+      "content2": "La nostra filosofia combina tècniques artesanals tradicionals amb les tecnologies més avançades. Cada embarcació que entra a les nostres instal·lacions rep un tracte personalitzat, com si fos la nostra pròpia nau.",
+      "content3": "Al llarg d'aquests anys, hem treballat amb les marques més prestigioses del sector i hem format una nova generació d'artesans nàutics que comparteixen la nostra passió per la feina ben feta."
+    },
+    "values": {
+      "title": "Els Nostres Valors",
+      "excellence": {
+        "title": "Excel·lència",
+        "description": "No ens conformem amb menys que la perfecció en cada detall."
+      },
+      "integrity": {
+        "title": "Integritat",
+        "description": "Honestedat i transparència en cada pressupost i cada treball."
+      },
+      "innovation": {
+        "title": "Innovació",
+        "description": "Adoptem les últimes tècniques i materials del sector."
+      },
+      "passion": {
+        "title": "Passió",
+        "description": "Estimem el que fem i això es reflecteix en cada projecte."
+      }
+    },
+    "team": {
+      "title": "El Nostre Equip",
+      "description": "Un equip d'artesans especialitzats, cadascun mestre en la seva disciplina, units per la passió per la nàutica de luxe."
+    },
+    "facilities": {
+      "title": "Les Nostres Instal·lacions",
+      "description": "Instal·lacions pròpies al Port de Tarragona amb capacitat per a grans eslores, incloent cabina de pintura climatitzada, zona de laminat i àrea d'acabats."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contacte",
+      "subtitle": "Parlem del seu projecte"
+    },
+    "info": {
+      "title": "Informació de Contacte",
+      "address": {
+        "label": "Adreça",
+        "value": "Moll de Lleida B1 local 15\nPort de Tarragona\n43004 Tarragona, Espanya"
+      },
+      "phone": {
+        "label": "Telèfon",
+        "value": "+34 609 874 869"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@fibramartarraco.com"
+      },
+      "hours": {
+        "label": "Horari",
+        "value": "Dilluns a Divendres: 8:00 - 18:00"
+      }
+    },
+    "form": {
+      "title": "Sol·licitar Pressupost",
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Telèfon",
+      "boatType": "Tipus d'embarcació",
+      "boatLength": "Eslora (metres)",
+      "service": "Servei requerit",
+      "serviceOptions": {
+        "painting": "Pintura",
+        "fiberglass": "Fibra de vidre",
+        "gelcoat": "Gelcoat",
+        "osmosis": "Osmosi",
+        "polishing": "Polit i encerat",
+        "custom": "Projecte especial",
+        "other": "Altre"
+      },
+      "message": "Descripció del projecte",
+      "submit": "Enviar Sol·licitud",
+      "submitting": "Enviant...",
+      "success": "Gràcies! Ens posarem en contacte aviat.",
+      "error": "Ha ocorregut un error. Si us plau, torneu-ho a intentar."
+    },
+    "whatsapp": {
+      "title": "Prefereix WhatsApp?",
+      "description": "Envieu-nos un missatge directe i li respondrem en menys de 24 hores.",
+      "button": "Obrir WhatsApp"
+    }
+  },
+  "footer": {
+    "description": "Especialistes en composite i pintura nàutica de luxe des de 1995. Port de Tarragona.",
+    "quickLinks": "Enllaços Ràpids",
+    "services": "Serveis",
+    "contact": "Contacte",
+    "legal": {
+      "privacy": "Política de Privacitat",
+      "terms": "Termes i Condicions",
+      "cookies": "Política de Cookies"
+    },
+    "copyright": "© 2024 Fibramar Tarraco. Tots els drets reservats."
+  },
+  "common": {
+    "learnMore": "Saber Més",
+    "viewAll": "Veure Tot",
+    "back": "Tornar",
+    "loading": "Carregant...",
+    "whatsapp": "WhatsApp"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Fibramar Tarraco | Composite y Pintura Náutica de Lujo en Tarragona",
+      "description": "Especialistas en composite con fibra de carbono, kevlar y pintura náutica desde 1995. Yates de lujo, regatas y grandes esloras. Puerto de Tarragona.",
+      "keywords": "composite náutico, pintura náutica Tarragona, fibra de carbono barcos, antifouling, gel-coat, reparación yates Tarragona, yacht repair Spain, refit veleros"
+    },
+    "services": {
+      "title": "Servicios | Fibramar Tarraco",
+      "description": "Servicios especializados de reparación y pintura náutica: fibra de vidrio, gelcoat, pintura de yates, tratamientos osmosis, pulido y encerado profesional.",
+      "keywords": "reparación fibra vidrio, pintura yates, gelcoat, osmosis, pulido náutico, composite marino"
+    },
+    "projects": {
+      "title": "Proyectos | Fibramar Tarraco",
+      "description": "Galería de proyectos completados: restauraciones de yates de lujo, reparaciones estructurales, trabajos de pintura y acabados premium.",
+      "keywords": "restauración yates, proyectos náuticos, reparaciones embarcaciones, trabajos pintura marina"
+    },
+    "about": {
+      "title": "Nosotros | Fibramar Tarraco",
+      "description": "Conoce a Fibramar Tarraco: más de 30 años de experiencia en el sector náutico, equipo de artesanos especializados y compromiso con la excelencia.",
+      "keywords": "empresa náutica Tarragona, artesanos náuticos, experiencia marina, equipo especializado"
+    },
+    "contact": {
+      "title": "Contacto | Fibramar Tarraco",
+      "description": "Solicita presupuesto sin compromiso. Contacta con Fibramar Tarraco para tu proyecto de reparación o pintura náutica de lujo.",
+      "keywords": "presupuesto náutico, contacto astillero, solicitar presupuesto, reparación yates Tarragona"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "requestQuote": "Solicitar Presupuesto"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TARRAGONA · DESDE 1995",
+      "title": "Excelencia en Composite y Pintura Náutica",
+      "subtitle": "Artesanos del Mar desde 1995",
+      "description": "Transformamos embarcaciones con la máxima precisión y acabados de lujo. Especialistas en fibra de carbono, kevlar, fibra de vidrio y pintura para yates en el Puerto de Tarragona.",
+      "cta": "Contactar por WhatsApp",
+      "ctaSecondary": "Ver Proyectos"
+    },
+    "trustStrip": {
+      "years": "+30 años",
+      "yearsLabel": "de experiencia",
+      "yachts": "Yates de lujo",
+      "yachtsLabel": "y regatas",
+      "international": "Alcance internacional",
+      "internationalLabel": "España y América",
+      "location": "Puerto de Tarragona",
+      "locationLabel": "instalaciones propias"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones integrales para su embarcación",
+      "viewAll": "Ver Todos los Servicios",
+      "composite": {
+        "badge": "ALTA TECNOLOGÍA",
+        "title": "Composite Avanzado",
+        "description": "Fabricación a medida con fibra de carbono, kevlar y fibra de vidrio. Técnicas de laminado para náutica de alto rendimiento, regatas y grandes esloras."
+      },
+      "painting": {
+        "badge": "ACABADOS IMPECABLES",
+        "title": "Pintura y Tratamientos",
+        "description": "Pintado de estructuras, antifouling, gel-coat original y tratamientos especializados para embarcaciones de todas las dimensiones. Acabados duraderos y resistentes."
+      }
+    },
+    "whyUs": {
+      "title": "Por Qué Elegirnos",
+      "experience": {
+        "title": "Más de 30 Años de Experiencia",
+        "description": "Décadas perfeccionando técnicas artesanales en el sector náutico de lujo."
+      },
+      "materials": {
+        "title": "Materiales Premium",
+        "description": "Fibra de carbono, kevlar y materiales de última generación."
+      },
+      "team": {
+        "title": "Equipo Especializado",
+        "description": "Artesanos formados en las técnicas más avanzadas del sector."
+      },
+      "facilities": {
+        "title": "Instalaciones Propias",
+        "description": "Taller en el Puerto de Tarragona con capacidad para grandes esloras."
+      },
+      "racing": {
+        "title": "Experiencia en Regatas",
+        "description": "Trabajos para equipos de competición y embarcaciones de alto rendimiento."
+      },
+      "warranty": {
+        "title": "Garantía de Calidad",
+        "description": "Respaldamos cada trabajo con garantías sólidas y seguimiento post-servicio."
+      }
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "testimonial1": {
+        "text": "Trabajo impecable en la restauración de mi yate. El acabado de pintura es sencillamente perfecto.",
+        "author": "Carlos M.",
+        "role": "Propietario Sunseeker 68"
+      },
+      "testimonial2": {
+        "text": "El equipo de Fibramar hizo un trabajo excepcional con la fibra de carbono de nuestro velero de regatas.",
+        "author": "Marc T.",
+        "role": "Racing Team Catalunya"
+      },
+      "testimonial3": {
+        "text": "Profesionales de verdad. El tratamiento de osmosis dejó el casco como nuevo.",
+        "author": "Josep A.",
+        "role": "Propietario Beneteau 50"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Transformar su Embarcación?",
+      "description": "Contáctenos para una evaluación personalizada y presupuesto sin compromiso.",
+      "whatsapp": "WhatsApp Directo",
+      "email": "Enviar Email"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Servicios Especializados",
+      "subtitle": "Soluciones integrales para embarcaciones de lujo"
+    },
+    "list": {
+      "fiberglass": {
+        "title": "Reparación de Fibra de Vidrio",
+        "description": "Reparaciones estructurales y estéticas de cascos, cubiertas y componentes. Restauramos la integridad de su embarcación con técnicas avanzadas de laminado y acabados perfectos.",
+        "features": ["Reparación de impactos y grietas", "Refuerzo estructural", "Reconstrucción de secciones", "Acabados invisibles"]
+      },
+      "painting": {
+        "title": "Pintura Náutica Premium",
+        "description": "Sistemas de pintura de alta gama para yates de lujo. Aplicación profesional con cabina climatizada y acabados espejo que perduran temporada tras temporada.",
+        "features": ["Pintura de línea de flotación", "Lacados de superestructura", "Antifouling profesional", "Acabados metalizados"]
+      },
+      "gelcoat": {
+        "title": "Trabajos de Gelcoat",
+        "description": "Restauración y aplicación de gelcoat para devolver el brillo original a su embarcación. Reparamos daños, igualamos colores y aplicamos capas de protección.",
+        "features": ["Igualación de color", "Reparación de crazing", "Pulido profesional", "Protección UV"]
+      },
+      "osmosis": {
+        "title": "Tratamiento de Osmosis",
+        "description": "Diagnóstico y tratamiento completo de osmosis. Eliminamos las ampollas, secamos el casco y aplicamos barreras epoxy de última generación.",
+        "features": ["Diagnóstico con humidímetro", "Pelado y secado", "Barrera epoxy", "Garantía extendida"]
+      },
+      "polishing": {
+        "title": "Pulido y Encerado",
+        "description": "Servicios de detailing náutico profesional. Devolvemos el brillo a gelcoat y superficies pintadas con técnicas de pulido de alta precisión.",
+        "features": ["Pulido multicapa", "Eliminación de óxido", "Encerado cerámico", "Protección duradera"]
+      },
+      "custom": {
+        "title": "Proyectos Especiales",
+        "description": "Trabajos a medida para regatistas, flotas deportivas y proyectos únicos. Desde modificaciones estructurales hasta personalizaciones exclusivas.",
+        "features": ["Modificaciones custom", "Optimización racing", "Carbono y kevlar", "Diseño a medida"]
+      }
+    },
+    "cta": {
+      "title": "¿Necesita un Servicio Especializado?",
+      "description": "Evaluamos su proyecto sin compromiso"
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Nuestros Proyectos",
+      "subtitle": "Excelencia que habla por sí misma"
+    },
+    "filters": {
+      "all": "Todos",
+      "painting": "Pintura",
+      "repair": "Reparación",
+      "restoration": "Restauración",
+      "custom": "Proyectos Especiales"
+    },
+    "gallery": {
+      "viewDetails": "Ver Detalles",
+      "project1": {
+        "title": "Restauración Integral Sunseeker 75",
+        "category": "Restauración",
+        "description": "Restauración completa de un Sunseeker 75 incluyendo reparación estructural del casco, nuevo sistema de pintura completo y acabados interiores."
+      },
+      "project2": {
+        "title": "Pintura Racing Team Catalunya",
+        "category": "Pintura",
+        "description": "Proyecto de pintura para equipo de regatas con colores corporativos, acabados mate y gráficos personalizados de alta visibilidad."
+      },
+      "project3": {
+        "title": "Reparación Impacto Princess V58",
+        "category": "Reparación",
+        "description": "Reparación de daños por impacto en proa con reconstrucción estructural en fibra de vidrio e igualación perfecta de gelcoat."
+      },
+      "project4": {
+        "title": "Tratamiento Osmosis Beneteau 50",
+        "category": "Reparación",
+        "description": "Tratamiento completo de osmosis con pelado de gelcoat, secado controlado y aplicación de nuevo sistema de barrera."
+      },
+      "project5": {
+        "title": "Custom Tender Riva",
+        "category": "Proyectos Especiales",
+        "description": "Personalización exclusiva de tender Riva con acabados en carbono visto, pintura metalizada y detalles en oro."
+      },
+      "project6": {
+        "title": "Refitting Clásico Hallberg-Rassy",
+        "category": "Restauración",
+        "description": "Proyecto de refitting completo de velero clásico incluyendo reparaciones estructurales, nuevo antifouling y barnizado de maderas."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Nuestra Historia",
+      "subtitle": "Más de 30 años dedicados a la excelencia náutica"
+    },
+    "story": {
+      "title": "Artesanos del Mar desde 1995",
+      "content": "Fibramar Tarraco nació de la pasión por el mar y el compromiso con la excelencia. Fundada en 1995 en el Puerto de Tarragona, hemos crecido hasta convertirnos en referentes del sector náutico de lujo en el Mediterráneo occidental.",
+      "content2": "Nuestra filosofía combina técnicas artesanales tradicionales con las tecnologías más avanzadas. Cada embarcación que entra en nuestras instalaciones recibe un trato personalizado, como si fuera nuestra propia nave.",
+      "content3": "A lo largo de estos años, hemos trabajado con las marcas más prestigiosas del sector y hemos formado a una nueva generación de artesanos náuticos que comparten nuestra pasión por el trabajo bien hecho."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "excellence": {
+        "title": "Excelencia",
+        "description": "No nos conformamos con menos que la perfección en cada detalle."
+      },
+      "integrity": {
+        "title": "Integridad",
+        "description": "Honestidad y transparencia en cada presupuesto y cada trabajo."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Adoptamos las últimas técnicas y materiales del sector."
+      },
+      "passion": {
+        "title": "Pasión",
+        "description": "Amamos lo que hacemos y eso se refleja en cada proyecto."
+      }
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "description": "Un equipo de artesanos especializados, cada uno maestro en su disciplina, unidos por la pasión por la náutica de lujo."
+    },
+    "facilities": {
+      "title": "Nuestras Instalaciones",
+      "description": "Instalaciones propias en el Puerto de Tarragona con capacidad para grandes esloras, incluyendo cabina de pintura climatizada, zona de laminado y área de acabados."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contacto",
+      "subtitle": "Hablemos de su proyecto"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "address": {
+        "label": "Dirección",
+        "value": "Muelle de Lérida B1 local 15\nPuerto de Tarragona\n43004 Tarragona, España"
+      },
+      "phone": {
+        "label": "Teléfono",
+        "value": "+34 609 874 869"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@fibramartarraco.com"
+      },
+      "hours": {
+        "label": "Horario",
+        "value": "Lunes a Viernes: 8:00 - 18:00"
+      }
+    },
+    "form": {
+      "title": "Solicitar Presupuesto",
+      "name": "Nombre completo",
+      "email": "Email",
+      "phone": "Teléfono",
+      "boatType": "Tipo de embarcación",
+      "boatLength": "Eslora (metros)",
+      "service": "Servicio requerido",
+      "serviceOptions": {
+        "painting": "Pintura",
+        "fiberglass": "Fibra de vidrio",
+        "gelcoat": "Gelcoat",
+        "osmosis": "Osmosis",
+        "polishing": "Pulido y encerado",
+        "custom": "Proyecto especial",
+        "other": "Otro"
+      },
+      "message": "Descripción del proyecto",
+      "submit": "Enviar Solicitud",
+      "submitting": "Enviando...",
+      "success": "¡Gracias! Nos pondremos en contacto pronto.",
+      "error": "Ha ocurrido un error. Por favor, inténtelo de nuevo."
+    },
+    "whatsapp": {
+      "title": "¿Prefiere WhatsApp?",
+      "description": "Envíenos un mensaje directo y le responderemos en menos de 24 horas.",
+      "button": "Abrir WhatsApp"
+    }
+  },
+  "footer": {
+    "description": "Especialistas en composite y pintura náutica de lujo desde 1995. Puerto de Tarragona.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "legal": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos y Condiciones",
+      "cookies": "Política de Cookies"
+    },
+    "copyright": "© 2024 Fibramar Tarraco. Todos los derechos reservados."
+  },
+  "common": {
+    "learnMore": "Saber Más",
+    "viewAll": "Ver Todo",
+    "back": "Volver",
+    "loading": "Cargando...",
+    "whatsapp": "WhatsApp"
+  }
+}

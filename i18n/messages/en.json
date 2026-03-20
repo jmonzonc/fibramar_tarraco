@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Fibramar Tarraco | Luxury Composite and Marine Painting Specialists",
+      "description": "Since 1995, leaders in fiberglass repair, premium marine painting and composite work for luxury yachts and vessels at the Port of Tarragona.",
+      "keywords": "marine painting, fiberglass, composite, luxury yachts, boat repair, Port Tarragona, nautical shipyard"
+    },
+    "services": {
+      "title": "Services | Fibramar Tarraco",
+      "description": "Specialized marine repair and painting services: fiberglass, gelcoat, yacht painting, osmosis treatment, professional polishing and waxing.",
+      "keywords": "fiberglass repair, yacht painting, gelcoat, osmosis, marine polishing, marine composite"
+    },
+    "projects": {
+      "title": "Projects | Fibramar Tarraco",
+      "description": "Gallery of completed projects: luxury yacht restorations, structural repairs, painting work and premium finishes.",
+      "keywords": "yacht restoration, nautical projects, boat repairs, marine painting work"
+    },
+    "about": {
+      "title": "About Us | Fibramar Tarraco",
+      "description": "Meet Fibramar Tarraco: over 30 years of experience in the nautical sector, team of specialized craftsmen and commitment to excellence.",
+      "keywords": "nautical company Tarragona, marine craftsmen, marine experience, specialized team"
+    },
+    "contact": {
+      "title": "Contact | Fibramar Tarraco",
+      "description": "Request a no-obligation quote. Contact Fibramar Tarraco for your luxury marine repair or painting project.",
+      "keywords": "nautical quote, shipyard contact, request quote, yacht repair Tarragona"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TARRAGONA · SINCE 1995",
+      "title": "Excellence in Composite and Marine Painting",
+      "subtitle": "Craftsmen of the Sea since 1995",
+      "description": "We transform vessels with maximum precision and luxury finishes. Specialists in carbon fiber, kevlar, fiberglass and painting for yachts at the Port of Tarragona.",
+      "cta": "Contact via WhatsApp",
+      "ctaSecondary": "View Projects"
+    },
+    "trustStrip": {
+      "years": "+30 years",
+      "yearsLabel": "of experience",
+      "yachts": "Luxury yachts",
+      "yachtsLabel": "and racing",
+      "international": "International reach",
+      "internationalLabel": "Spain and America",
+      "location": "Port of Tarragona",
+      "locationLabel": "own facilities"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive solutions for your vessel",
+      "viewAll": "View All Services",
+      "composite": {
+        "badge": "HIGH TECHNOLOGY",
+        "title": "Advanced Composite",
+        "description": "Custom fabrication with carbon fiber, kevlar and fiberglass. Lamination techniques for high-performance yachting, racing and large vessels."
+      },
+      "painting": {
+        "badge": "FLAWLESS FINISHES",
+        "title": "Painting and Treatments",
+        "description": "Structure painting, antifouling, original gel-coat and specialized treatments for vessels of all sizes. Durable and resistant finishes."
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us",
+      "experience": {
+        "title": "Over 30 Years of Experience",
+        "description": "Decades perfecting artisanal techniques in the luxury nautical sector."
+      },
+      "materials": {
+        "title": "Premium Materials",
+        "description": "Carbon fiber, kevlar and state-of-the-art materials."
+      },
+      "team": {
+        "title": "Specialized Team",
+        "description": "Craftsmen trained in the most advanced techniques in the sector."
+      },
+      "facilities": {
+        "title": "Own Facilities",
+        "description": "Workshop at Port of Tarragona with capacity for large vessels."
+      },
+      "racing": {
+        "title": "Racing Experience",
+        "description": "Work for competition teams and high-performance vessels."
+      },
+      "warranty": {
+        "title": "Quality Guarantee",
+        "description": "We back every job with solid warranties and post-service follow-up."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "testimonial1": {
+        "text": "Impeccable work on my yacht restoration. The paint finish is simply perfect.",
+        "author": "Carlos M.",
+        "role": "Sunseeker 68 Owner"
+      },
+      "testimonial2": {
+        "text": "The Fibramar team did exceptional work with the carbon fiber on our racing sailboat.",
+        "author": "Marc T.",
+        "role": "Racing Team Catalunya"
+      },
+      "testimonial3": {
+        "text": "True professionals. The osmosis treatment left the hull like new.",
+        "author": "Josep A.",
+        "role": "Beneteau 50 Owner"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Vessel?",
+      "description": "Contact us for a personalized evaluation and no-obligation quote.",
+      "whatsapp": "Direct WhatsApp",
+      "email": "Send Email"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Specialized Services",
+      "subtitle": "Comprehensive solutions for luxury vessels"
+    },
+    "list": {
+      "fiberglass": {
+        "title": "Fiberglass Repair",
+        "description": "Structural and aesthetic repairs of hulls, decks and components. We restore the integrity of your vessel with advanced lamination techniques and perfect finishes.",
+        "features": ["Impact and crack repair", "Structural reinforcement", "Section reconstruction", "Invisible finishes"]
+      },
+      "painting": {
+        "title": "Premium Marine Painting",
+        "description": "High-end painting systems for luxury yachts. Professional application with climate-controlled booth and mirror finishes that last season after season.",
+        "features": ["Waterline painting", "Superstructure lacquering", "Professional antifouling", "Metallic finishes"]
+      },
+      "gelcoat": {
+        "title": "Gelcoat Work",
+        "description": "Restoration and application of gelcoat to restore original shine to your vessel. We repair damage, match colors and apply protective layers.",
+        "features": ["Color matching", "Crazing repair", "Professional polishing", "UV protection"]
+      },
+      "osmosis": {
+        "title": "Osmosis Treatment",
+        "description": "Complete osmosis diagnosis and treatment. We remove blisters, dry the hull and apply state-of-the-art epoxy barriers.",
+        "features": ["Moisture meter diagnosis", "Peeling and drying", "Epoxy barrier", "Extended warranty"]
+      },
+      "polishing": {
+        "title": "Polishing and Waxing",
+        "description": "Professional marine detailing services. We restore shine to gelcoat and painted surfaces with high-precision polishing techniques.",
+        "features": ["Multi-layer polishing", "Oxidation removal", "Ceramic waxing", "Long-lasting protection"]
+      },
+      "custom": {
+        "title": "Special Projects",
+        "description": "Custom work for racers, sports fleets and unique projects. From structural modifications to exclusive customizations.",
+        "features": ["Custom modifications", "Racing optimization", "Carbon and kevlar", "Custom design"]
+      }
+    },
+    "cta": {
+      "title": "Need a Specialized Service?",
+      "description": "We evaluate your project at no obligation"
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Our Projects",
+      "subtitle": "Excellence that speaks for itself"
+    },
+    "filters": {
+      "all": "All",
+      "painting": "Painting",
+      "repair": "Repair",
+      "restoration": "Restoration",
+      "custom": "Special Projects"
+    },
+    "gallery": {
+      "viewDetails": "View Details",
+      "project1": {
+        "title": "Complete Sunseeker 75 Restoration",
+        "category": "Restoration",
+        "description": "Complete restoration of a Sunseeker 75 including hull structural repair, new complete paint system and interior finishes."
+      },
+      "project2": {
+        "title": "Racing Team Catalunya Painting",
+        "category": "Painting",
+        "description": "Painting project for racing team with corporate colors, matte finishes and high-visibility custom graphics."
+      },
+      "project3": {
+        "title": "Princess V58 Impact Repair",
+        "category": "Repair",
+        "description": "Bow impact damage repair with fiberglass structural reconstruction and perfect gelcoat matching."
+      },
+      "project4": {
+        "title": "Beneteau 50 Osmosis Treatment",
+        "category": "Repair",
+        "description": "Complete osmosis treatment with gelcoat peeling, controlled drying and new barrier system application."
+      },
+      "project5": {
+        "title": "Custom Tender Riva",
+        "category": "Special Projects",
+        "description": "Exclusive Riva tender customization with exposed carbon finishes, metallic paint and gold details."
+      },
+      "project6": {
+        "title": "Classic Hallberg-Rassy Refitting",
+        "category": "Restoration",
+        "description": "Complete refitting project of classic sailboat including structural repairs, new antifouling and wood varnishing."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Our History",
+      "subtitle": "Over 30 years dedicated to nautical excellence"
+    },
+    "story": {
+      "title": "Craftsmen of the Sea since 1995",
+      "content": "Fibramar Tarraco was born from a passion for the sea and commitment to excellence. Founded in 1995 at the Port of Tarragona, we have grown to become benchmarks in the luxury nautical sector in the western Mediterranean.",
+      "content2": "Our philosophy combines traditional artisanal techniques with the most advanced technologies. Every vessel that enters our facilities receives personalized treatment, as if it were our own ship.",
+      "content3": "Throughout these years, we have worked with the most prestigious brands in the sector and have trained a new generation of nautical craftsmen who share our passion for a job well done."
+    },
+    "values": {
+      "title": "Our Values",
+      "excellence": {
+        "title": "Excellence",
+        "description": "We settle for nothing less than perfection in every detail."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "Honesty and transparency in every quote and every job."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We adopt the latest techniques and materials in the sector."
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "We love what we do and it shows in every project."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "A team of specialized craftsmen, each a master in their discipline, united by a passion for luxury yachting."
+    },
+    "facilities": {
+      "title": "Our Facilities",
+      "description": "Own facilities at the Port of Tarragona with capacity for large vessels, including climate-controlled paint booth, lamination area and finishing area."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact",
+      "subtitle": "Let's talk about your project"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "label": "Address",
+        "value": "Muelle de Lérida B1 local 15\nPort of Tarragona\n43004 Tarragona, Spain"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+34 609 874 869"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@fibramartarraco.com"
+      },
+      "hours": {
+        "label": "Hours",
+        "value": "Monday to Friday: 8:00 - 18:00"
+      }
+    },
+    "form": {
+      "title": "Request Quote",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "boatType": "Boat type",
+      "boatLength": "Length (meters)",
+      "service": "Required service",
+      "serviceOptions": {
+        "painting": "Painting",
+        "fiberglass": "Fiberglass",
+        "gelcoat": "Gelcoat",
+        "osmosis": "Osmosis",
+        "polishing": "Polishing and waxing",
+        "custom": "Special project",
+        "other": "Other"
+      },
+      "message": "Project description",
+      "submit": "Submit Request",
+      "submitting": "Submitting...",
+      "success": "Thank you! We will contact you soon.",
+      "error": "An error occurred. Please try again."
+    },
+    "whatsapp": {
+      "title": "Prefer WhatsApp?",
+      "description": "Send us a direct message and we'll respond within 24 hours.",
+      "button": "Open WhatsApp"
+    }
+  },
+  "footer": {
+    "description": "Specialists in luxury composite and marine painting since 1995. Port of Tarragona.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "cookies": "Cookie Policy"
+    },
+    "copyright": "© 2024 Fibramar Tarraco. All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "back": "Back",
+    "loading": "Loading...",
+    "whatsapp": "WhatsApp"
+  }
+}
